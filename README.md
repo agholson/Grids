@@ -1,9 +1,8 @@
 #  Grids in SwiftUI
-
-
-The `VGrids` grow vertically, but place new content into each of the columns you defined.
+From the CodeWithChris Design course: https://learn.codewithchris.com/courses/take/design/lessons/26070143-lesson-4-grids
 
 # Fixed VGrid
+The `VGrids` grow vertically, but place new content into each of the columns you defined.
 The following code produces a LazyVGrid (shows only items the user views) with three columns of equal width (100),
 5px spacing between each of them.
 ```
